@@ -11,11 +11,11 @@ I am currently an Engineer PhD Student in the Tianjin University, advised by Pro
 
 Education
 ======
-2023.09 - Now, Ph.D. student,  Tianjin University, China
+2023.09 - Now, Ph.D. student, Information and Communication Engineering, Tianjin University, China
 
-2019.09 - 2022.06,  M.S. , Ningbo University, China
+2019.09 - 2022.06,  M.S. Electronics and Communication Engineering, Ningbo University, China
 
-2015.09 - 2019.06,  B.S. , Ningbo University, China
+2015.09 - 2019.06,  B.S. Communication Engineering, Ningbo University, China
 
 Publications
 ------
