@@ -11,54 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+2023.09 - Now, Ph.D. student, Information and Communication Engineering, Tianjin University, China
+
+2019.09 - 2022.06,  M.S. Electronics and Communication Engineering, Ningbo University, China
+
+2015.09 - 2019.06,  B.S. Communication Engineering, Ningbo University, China
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022.07 - 2023.07:
+  * China Mobile (Hangzhou) Information Technology Co., Ltd. (cmhi)
+  * Machine Learning Engineer
+  * Duties includes: Efficient Super Resolution
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. Jointly Texture Enhanced and Stereo Captured Network for Stereo Image Super-Resolution <br>  **Kangjun Jin**, Xuejin Wang, Fengshao* <br> Pattern Recognition Letters, 2023 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865523000442">[PDF]</a>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
