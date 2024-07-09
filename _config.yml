@@ -14,17 +14,17 @@ name                     : &name "Kangjun Jin (金康俊)"
 description              : &description "Engineering PhD Student"
 url                      : "https://jkj0406.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jkj0406/jkj0406.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kk.jpg"
+  avatar           : "moto.jpg"
   name             : "Kangjun Jin"
   pronouns         : # example: "she/her"  
-  bio              : "I'm a phd student in AI4S"
+  bio              : "I'm a phd student in Tianjin University."
   location         : "China"
   employer         : "Tianjin University"
   uri              : # URL
