@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Kangjun Jin's page"
 title_separator          : "-"
-name                     : &name "Kangjun Jin (金康俊)"
+name                     : &name "Kangjun Jin 金康俊"
 description              : &description "Engineering PhD Student"
 url                      : "https://jkj0406.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
