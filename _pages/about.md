@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Engineer PhD Student in the Tianjin University, advised by Prof. <a href="https://seea.tju.edu.cn/info/1139/2093.htm" title="Jiachen Yang">Jiachen Yang</a>. I received BS in 2019 from Ningbo University and MS in 2022 from Ningbo University, Advised by Prof. <a href="https://zhaosheng.eol.cn/11646/tutors/index/daoshidetail?school_id=461&m_id=35908&ds_id=20356" title="Feng Shao">Feng Shao</a>.
+I am currently an Engineer PhD Student in the Tianjin University, advised by Prof. <a href="https://seea.tju.edu.cn/info/1139/2093.htm" title="Jiachen Yang">Jiachen Yang</a>. I received BS in 2019 from Ningbo University and MS in 2022 from Ningbo University, Advised by Prof. <a href="https://scholar.google.com/citations?user=n0xnWAoAAAAJ&hl=en" title="Feng Shao">Feng Shao</a>.
 
 Education
 ======
